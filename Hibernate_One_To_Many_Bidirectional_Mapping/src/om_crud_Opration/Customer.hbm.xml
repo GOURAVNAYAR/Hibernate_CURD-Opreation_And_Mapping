@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+
+<hibernate-mapping>
+
+	<class name="om_crud_Opration.Customer" table="Customer_101">
+		<id name="customerId" column="customer_Id">
+		
+		</id>
+		<property name="customerName" column="customer_Name" />
+		<property name="forevenId" column="forevenId" />
+		
+		<many-to-one name="parentObjets" column="Ydummy"
+			class="om_crud_Opration.Vendor" cascade="all" />
+		
+	</class>
+</hibernate-mapping>

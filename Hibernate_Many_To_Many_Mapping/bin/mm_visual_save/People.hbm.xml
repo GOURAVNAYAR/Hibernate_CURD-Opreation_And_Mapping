@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+
+<hibernate-mapping>
+	<class name="mm_visual_save.People" table="people_302">
+		<id name="peopleId" column="people_id">
+		</id>
+		<property name="peopleName" column="people_name" />
+		<property name="peopleAge" column="people_age" />
+		<property name="peopleQulifiction"
+			column="people_qulifiction" />
+
+		<set name="jobs" inverse="false" cascade="all" table="people_job_302">
+			<key column="PeopleId" />
+			<many-to-many class="mm_visual_save.Job" column="jobId" />
+		</set>
+	</class>
+</hibernate-mapping>

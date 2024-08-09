@@ -1,0 +1,15 @@
+
+
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(§ğ»8š¿§”ô1Hê±RMINORZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëğöHò¯RMINORZ
+CODE_SMELL
+e
+java:S1128"1Remove this unused import 'One_to_Many_Get.Book'.(„˜£8³µµ’ô1Hµ°RMINORZ
+CODE_SMELL
+g
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8³µµ’ô1H³°RMINORZ
+CODE_SMELL
+k
+java:S1128"2Remove this unused import 'One_to_Many_Get.Topic'.(Õ¹çüÿÿÿÿ8³µµ’ô1H·°RMINORZ
+CODE_SMELL

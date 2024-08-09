@@ -1,0 +1,16 @@
+
+p
+java:S1128	"=Remove this unused import 'org.hibernate.annotations.Parent'.(ìÀíœ8¿±‰Âè1H¤ERMINORZ
+CODE_SMELL
+n	java:S125_"<This block of commented-out lines of code should be removed.(³ÂòÕ8·µô¯è1H‘ERMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ îÀøÿÿÿÿHERMINORZ
+CODE_SMELL
+m	java:S125T"<This block of commented-out lines of code should be removed.(šÓµ~8Èş‹Âè1H«ERMAJORZ
+CODE_SMELL
+`
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8Èş‹Âè1H°ERMINORZ
+CODE_SMELL
+b
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8Èş‹Âè1H²ERMINORZ
+CODE_SMELL

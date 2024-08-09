@@ -1,0 +1,7 @@
+
+–	java:S116"^Rename this field "ProfessionalPlaceId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(— ‰èÿÿÿÿÿ8ê‰‡Ğù1HùÎRMINORZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ™ùHúÎRMINORZ
+CODE_SMELL
+”	java:S116"aRename this field "ProfessionalPlaceAbout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²·ø¸8ê‰‡Ğù1HûÎRMINORZ
+CODE_SMELL

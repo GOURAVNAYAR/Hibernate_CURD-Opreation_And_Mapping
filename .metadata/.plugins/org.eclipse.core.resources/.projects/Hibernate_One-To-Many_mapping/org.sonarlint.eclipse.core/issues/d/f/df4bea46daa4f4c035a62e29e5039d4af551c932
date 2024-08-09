@@ -1,0 +1,11 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”Ôþ†HâNRMINORZ
+CODE_SMELL
+n	java:S125;"<This block of commented-out lines of code should be removed.(³ÂòÕ8‘¼½Íè1HãNRMAJORZ
+CODE_SMELL
+j
+java:S1128"2Remove this unused import 'om_visual_save.Engine'.(ÒéÔ´ÿÿÿÿÿ8Û“ÏÍè1HåNRMINORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'om_visual_save.Part'.(ºÅ œ8Û“ÏÍè1HçNRMINORZ
+CODE_SMELL

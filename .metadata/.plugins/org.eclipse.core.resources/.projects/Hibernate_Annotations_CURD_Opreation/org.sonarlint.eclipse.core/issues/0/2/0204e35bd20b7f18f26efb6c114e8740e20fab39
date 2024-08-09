@@ -1,0 +1,11 @@
+
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸‚8¦ò¤œó1Hœ¨RMINORZ
+CODE_SMELL
+‰	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ĞÓğøÿÿÿÿ8¦ò¤œó1H™¨RMINORZ
+CODE_SMELL
+†	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ĞÓğøÿÿÿÿ8¦ò¤œó1H›¨RMINORZ
+CODE_SMELL
+‡	java:S116"URename this field "capital_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßñe8æ„—œó1Hš¨RMINORZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹İàÒHù¦RMINORZ
+CODE_SMELL

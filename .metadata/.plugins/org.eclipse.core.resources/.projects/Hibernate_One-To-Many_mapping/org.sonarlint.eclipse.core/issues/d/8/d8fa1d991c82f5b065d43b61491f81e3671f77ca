@@ -1,0 +1,16 @@
+
+Z
+java:S1128".Remove this unused import 'om_visual_Get.Car'.(éö‘ÁH“uRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Û€ê»üÿÿÿÿH—uRMINORZ
+CODE_SMELL
+a
+java:S1128"0Remove this unused import 'om_visual_Get.Owner'.(ã‚”ŒýÿÿÿÿH•uRMINORZ
+CODE_SMELL
+g	java:S125H"<This block of commented-out lines of code should be removed.(³ÂòÕH˜uRMAJORZ
+CODE_SMELL
+n	java:S125""<This block of commented-out lines of code should be removed.(Ûšß±8ˆˆ§Šê1H’vRMAJORZ
+CODE_SMELL
+`
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ˆˆ§Šê1H¤vRMINORZ
+CODE_SMELL

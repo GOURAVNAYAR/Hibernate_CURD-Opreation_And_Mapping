@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <session-factory>
+        <!-- Database connection properties -->
+        <!-- <property name="connection.driver_class">com.mysql.jdbc.Driver</property> -->
+        <property name="connection.url">jdbc:mysql://localhost:3306/Annotations_base</property>
+        <property name="connection.user">root</property>
+        <property name="connection.password">root</property>
+        
+        <!-- Hibernate dialect -->
+        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+        
+        <!-- Show SQL statements in console -->
+        <property name="show_sql">true</property>
+        
+        <!-- Pretty print SQL statements -->
+        <property name="hibernate.format_sql">true</property>
+        
+        <!-- Auto-create/update database schema -->
+        <property name="hbm2ddl.auto">create update</property>
+        
+        <!-- Mapping entity class -->
+        <mapping class ="CURD_opration.Product" />
+    </session-factory>
+</hibernate-configuration>

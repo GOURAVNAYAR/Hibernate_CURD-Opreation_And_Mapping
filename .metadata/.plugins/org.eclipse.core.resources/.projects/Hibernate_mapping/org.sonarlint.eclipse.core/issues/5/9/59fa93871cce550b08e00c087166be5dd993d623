@@ -1,0 +1,8 @@
+
+n	java:S125;"<This block of commented-out lines of code should be removed.(³ÂòÕ8£²„±è1HöDRMAJORZ
+CODE_SMELL
+b
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8ù‘å°è1HóDRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿¿óåHòDRMINORZ
+CODE_SMELL

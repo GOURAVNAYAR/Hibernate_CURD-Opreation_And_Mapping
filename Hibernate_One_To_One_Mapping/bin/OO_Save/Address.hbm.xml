@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="OO_Save.Address" table="Address_401">
+		<id name="addressId" column="address_Id">
+			<generator class="foreign">
+				<param name="property">s</param>
+			</generator>
+		</id>
+		<property name="addressName" column="address_Name"
+			length="10" />
+			
+			
+			
+		<one-to-one name="s" class="OO_Save.Student" cascade="all" />
+	</class>
+</hibernate-mapping>
+

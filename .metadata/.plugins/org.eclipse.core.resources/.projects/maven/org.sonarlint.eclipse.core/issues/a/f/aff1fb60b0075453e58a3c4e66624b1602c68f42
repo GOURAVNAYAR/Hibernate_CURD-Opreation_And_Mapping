@@ -1,0 +1,18 @@
+
+q
+java:S1874"?Remove this use of "AnnotationConfiguration"; it is deprecated.(ÅñØÀşÿÿÿÿH“•RMINORZ
+CODE_SMELL
+h
+java:S1874";Remove this use of "buildSessionFactory"; it is deprecated.(¼™¡åHš•RMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÖØ^H˜•RMINORZ
+CODE_SMELL
+q
+java:S1874"?Remove this use of "AnnotationConfiguration"; it is deprecated.(ÅñØÀşÿÿÿÿH™•RMINORZ
+CODE_SMELL
+d
+java:S1128"+Remove this unused import 'Dto.My_Account'.(æ¤ÕŠûÿÿÿÿ8Å¬äñü1H”•RMINORZ
+CODE_SMELL
+
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö•„Ï8ÂŒ¹Ïı1H–•RMINORZ
+CODE_SMELL

@@ -1,0 +1,11 @@
+
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8§Êÿ‡ê1H¢xRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÂú¿H¡xRMINORZ
+CODE_SMELL
+c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8§Êÿ‡ê1H­xRMINORZ
+CODE_SMELL
+s	java:S125A"<This block of commented-out lines of code should be removed.(»ý«Îøÿÿÿÿ8ÊÉÃê1HÄxRMAJORZ
+CODE_SMELL

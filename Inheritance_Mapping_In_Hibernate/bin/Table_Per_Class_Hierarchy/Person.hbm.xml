@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+
+<class name="Table_Per_Class_Hierarchy.Person" table="Person">
+    <id name="id" column="id" />
+    <discriminator column="dcolumn" type="string" length="5"/>
+    <property name="name" column="name" />
+
+  <subclass name="Table_Per_Class_Hierarchy.Student" discriminator-value="CC">
+    <property name="rollNumber" column="rollNumber" length="10" />
+</subclass>
+
+<subclass name="Table_Per_Class_Hierarchy.Teacher" discriminator-value="cq">
+    <property name="subject" column="subject" length="10" />
+</subclass>
+
+</class>
+
+</hibernate-mapping>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="om_crud_Opration.Playground" table="Playground_2011">
+
+		<id name="PlaygroundId" column="Playground_Id" />
+		<property name="PlaygroundName" column="Playground_Name" length="1000" />
+		
+
+	</class>
+</hibernate-mapping>
+

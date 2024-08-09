@@ -1,0 +1,5 @@
+
+„	java:S116"SRename this field "Question" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ύΰ¦όÿÿÿÿH²ηRMINORZ
+CODE_SMELL
+‹	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ίμÿÿÿÿÿH³ηRMINORZ
+CODE_SMELL

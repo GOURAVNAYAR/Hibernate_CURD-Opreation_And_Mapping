@@ -1,0 +1,15 @@
+
+m	java:S125""<This block of commented-out lines of code should be removed.(¬šÀ8Šš†˜é1HÕWRMAJORZ
+CODE_SMELL
+n	java:S125-"<This block of commented-out lines of code should be removed.(¶­8Ä¿…˜é1HÏWRMAJORZ
+CODE_SMELL
+n
+java:S1874";Remove this use of "buildSessionFactory"; it is deprecated.(÷…¹ş8Ïôøüè1H÷PRMINORZ
+CODE_SMELL
+s	java:S125("<This block of commented-out lines of code should be removed.(Êâšûÿÿÿÿ8Šš†˜é1HÖWRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ïÃÿ…úÿÿÿÿ8±²†˜é1HÙWRMAJORZ
+CODE_SMELL
+d
+java:S1128	",Remove this unused import 'mo_save.Subject'.(¼…Å«şÿÿÿÿ8±²†˜é1HÚWRMINORZ
+CODE_SMELL

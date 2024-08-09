@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+<class name="Table_Per_Class_Hierarchy.Company" table="Company_1001">
+    <id name="companyId" column="company_Id" />
+    <property name="companyName" column="company_Name" />
+    
+    <joined-subclass name="Table_Per_Concrete_Class_Hierarchy.Model" table="Model">
+        <key column="dummy1" />
+        <property name="modelId" column="model_Id" length="10" />
+        <property name="modelName" column="model_Name" length="10" />
+    </joined-subclass>
+    
+    <joined-subclass name="Table_Per_Concrete_Class_Hierarchy.Color" table="Color">
+        <key column="dummy2" />
+        <property name="colorId" column="color_Id" length="10" />
+        <property name="colorName" column="color_Name" length="10" />
+    </joined-subclass>
+     </class>
+</hibernate-mapping>

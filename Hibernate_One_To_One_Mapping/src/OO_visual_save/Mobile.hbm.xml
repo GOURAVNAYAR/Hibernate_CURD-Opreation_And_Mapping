@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="OO_visual_save.Mobile" table="mobile_table">
+        <id name="mobileId" type="int">
+            <generator class="native"/>
+        </id>
+        <property name="brand" type="string"/>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Hibernate_Mapping_Project/src/com/logic/Distcenter_zone_has_role.java&apos; to &apos;Distcenter_zone_has_role_Logic.java&apos;" description="Rename resource &apos;Distcenter_zone_has_role.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/logic/Distcenter_zone_has_role.java" name="Distcenter_zone_has_role_Logic.java" stamp="1716661424962" updateReferences="true"/>
+</session>

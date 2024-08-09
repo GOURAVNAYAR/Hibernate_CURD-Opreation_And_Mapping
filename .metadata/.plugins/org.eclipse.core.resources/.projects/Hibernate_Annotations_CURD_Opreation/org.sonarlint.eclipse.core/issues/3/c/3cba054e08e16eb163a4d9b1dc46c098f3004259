@@ -1,0 +1,8 @@
+
+‹	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(å×Ý€üÿÿÿÿH›ÐRMINORZ
+CODE_SMELL
+t	java:S1254"<This block of commented-out lines of code should be removed.(©ª®øùÿÿÿÿ8–“èÒô1HœÐRMAJORZ
+CODE_SMELL
+p
+java:S1128"<Remove this unused import 'org.hibernate.cfg.Configuration'.(ö¬ä8ó‚ãÒô1H¬ÐRMINORZ
+CODE_SMELL

@@ -1,0 +1,12 @@
+
+n
+java:S1874";Remove this use of "buildSessionFactory"; it is deprecated.(÷…¹ş8ÉÑÆ„é1H’WRMINORZ
+CODE_SMELL
+e
+java:S1128"2Remove this unused import 'om_visual_update.Boss'.(‰šÒ®8ÉÑÆ„é1H”WRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ…õçH“WRMINORZ
+CODE_SMELL
+i
+java:S1128	"6Remove this unused import 'om_visual_update.Employee'.(æ—¢ó8ÉÑÆ„é1HWRMINORZ
+CODE_SMELL

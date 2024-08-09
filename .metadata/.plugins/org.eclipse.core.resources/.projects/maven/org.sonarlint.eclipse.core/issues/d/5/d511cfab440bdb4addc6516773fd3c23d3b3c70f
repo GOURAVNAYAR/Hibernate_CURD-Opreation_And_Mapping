@@ -1,0 +1,31 @@
+
+‹
+java:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ‘òðøÿÿÿÿH°õRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÖØ^H²õRMINORZ
+CODE_SMELL
+c
+java:S2589S"7Remove this expression which always evaluates to "true"(“‘©]H³õRMAJORZ
+CODE_SMELL
+q
+java:S1874"?Remove this use of "AnnotationConfiguration"; it is deprecated.(ÅñØÀþÿÿÿÿH†öRMINORZ
+CODE_SMELL
+q
+java:S1874"?Remove this use of "AnnotationConfiguration"; it is deprecated.(ÅñØÀþÿÿÿÿH‡öRMINORZ
+CODE_SMELL
+h
+java:S1874";Remove this use of "buildSessionFactory"; it is deprecated.(¼™¡åHˆöRMINORZ
+CODE_SMELL
+m	java:S125"<This block of commented-out lines of code should be removed.(ã÷à¤ûÿÿÿÿH‰öRMAJORZ
+CODE_SMELL
+m	java:S125)"<This block of commented-out lines of code should be removed.(þ„ÚíýÿÿÿÿHŠöRMAJORZ
+CODE_SMELL
+h	java:S1250"<This block of commented-out lines of code should be removed.(Öí¸H‹öRMAJORZ
+CODE_SMELL
+m	java:S1258"<This block of commented-out lines of code should be removed.(ò¤ÞüúÿÿÿÿHŒöRMAJORZ
+CODE_SMELL
+h	java:S125?"<This block of commented-out lines of code should be removed.(Ú»–ÝHöRMAJORZ
+CODE_SMELL
+i
+java:S1128"<Remove this unused import 'org.hibernate.cfg.Configuration'.(ö¬äHŽöRMINORZ
+CODE_SMELL

@@ -1,0 +1,26 @@
+package simple;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class Pac {
+
+	public static void main(String[] args) {
+		String input = "";
+		String st = "level";
+
+		for (int i = st.length()-1; i >= 0; i--) {
+
+			input = input + st.charAt(i);
+			
+		}
+		System.out.println(input);
+		if(st.equals(input)) {
+			System.out.println("this is equal");
+		}
+		else {
+			System.out.println("this is not equal ");
+		}
+
+	}
+}

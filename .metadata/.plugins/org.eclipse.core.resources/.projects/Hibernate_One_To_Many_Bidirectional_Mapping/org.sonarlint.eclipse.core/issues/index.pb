@@ -1,0 +1,23 @@
+
+S
+#src/om_crud_Opration/Vendor.hbm.xml,2\9\2946171e0b1883c27a51079424468233ef209201
+U
+%src/om_crud_Opration/Customer.hbm.xml,e\1\e18874cf8a215049428eb4f1493ec7a9ddec21f2
+S
+#src/om_crud_Opration/Logic_Get.java,8\d\8d0901d575b799b72fc9bbfe2ba9058a2732530e
+T
+$src/om_crud_Opration/Logic_Save.java,b\3\b328583dd9f5c4e329630bddf8f74f7684b2e21e
+V
+&src/om_crud_Opration/Logic_Update.java,1\9\192ae541f46bad40ea6c9d938aee9bf371718549
+R
+"src/om_crud_Opration/Customer.java,2\a\2a4e4e398724476a87470287b2f40f2a54dc2cab
+V
+&src/om_crud_Opration/Logic_Delete.java,1\6\16cfd99ff8268385e25b3a59da027bb7a699aa53
+V
+&src/om_crud_Opration/Hibernate.cfg.xml,8\f\8f3390b523e103c1920691f0dd9d5b83e0e3a47f
+P
+ src/om_crud_Opration/Vendor.java,d\0\d0b2774237f3e67089d7b8558762904d6a9acb18
+I
+src/om_Delete/Person.java,a\0\a089f517250066bacacf09fb69b6a27f6b973304
+O
+src/om_Delete/Mobilenumber.java,e\0\e0a702457dee4971e1410c77477ba06b71b68c88

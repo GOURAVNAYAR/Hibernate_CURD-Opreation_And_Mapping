@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="com_student.Student" table="Filters-Student">
+		   <id name="studentId" column="student_Id">
+            <generator class="identity"/>
+        </id>
+		<property name="studentName" column="student_Name" />
+		<property name="studentAge" column="student_Age" />
+		<property name="studentAddress" column="student_Address" />
+<!-- 
+		<filter name="studentName"
+			condition="name like '%c%'"></filter>
+
+		<filter name="studentAgeFilter" condition="age>=:age"></filter>
+	</class>
+	<filter-def name="studentName" />
+	<filter-def name="studentAgeFilter">
+		<filter-param name="age" type="int" />
+	</filter-def>     -->
+	</class>
+</hibernate-mapping>

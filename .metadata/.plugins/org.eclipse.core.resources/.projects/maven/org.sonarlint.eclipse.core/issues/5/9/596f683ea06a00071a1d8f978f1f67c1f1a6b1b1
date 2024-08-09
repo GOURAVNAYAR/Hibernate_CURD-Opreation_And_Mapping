@@ -1,0 +1,15 @@
+
+h
+java:S1874";Remove this use of "buildSessionFactory"; it is deprecated.(¼™¡åHøóRMINORZ
+CODE_SMELL
+‹
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(â¹ùøÿÿÿÿHóóRMINORZ
+CODE_SMELL
+q
+java:S1874"?Remove this use of "AnnotationConfiguration"; it is deprecated.(ÅñØÀşÿÿÿÿH÷óRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÖØ^HõóRMINORZ
+CODE_SMELL
+q
+java:S1874"?Remove this use of "AnnotationConfiguration"; it is deprecated.(ÅñØÀşÿÿÿÿHöóRMINORZ
+CODE_SMELL

@@ -1,0 +1,33 @@
+
+‰	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Äˆ”şÿÿÿÿ8ôèêŠû1H¶ÓRMINORZ
+CODE_SMELL
+	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªø˜…8ôèêŠû1H·ÓRMINORZ
+CODE_SMELL
+„	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê…Ü€8ôèêŠû1H¸ÓRMINORZ
+CODE_SMELL
+‹	java:S116"SRename this field "Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬›™Âûÿÿÿÿ8Å‹åŠû1H¹ÓRMINORZ
+CODE_SMELL
+ƒ	java:S116"PRename this field "DevID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¡Æî8Å‹åŠû1HºÓRMINORZ
+CODE_SMELL
+€	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ù 8ôèêŠû1H»ÓRMINORZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ™ùH¼ÓRMINORZ
+CODE_SMELL
+‰	java:S116"QRename this field "VolDC1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ°Î©ıÿÿÿÿ8Å‹åŠû1H½ÓRMINORZ
+CODE_SMELL
+„	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰’ªş8ôèêŠû1H¾ÓRMINORZ
+CODE_SMELL
+	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰’ªş8ôèêŠû1H¿ÓRMINORZ
+CODE_SMELL
+	java:S116"]Rename this field "idcbism_substation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¥§n8Å‹åŠû1HÀÓRMINORZ
+CODE_SMELL
+	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èåî«8ôèêŠû1HÁÓRMINORZ
+CODE_SMELL
+š	java:S116"bRename this field "cbism_substation_logcol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é†ì­úÿÿÿÿ8Å‹åŠû1HÂÓRMINORZ
+CODE_SMELL
+…	java:S116"RRename this field "tem_pC1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¨òâ8Å‹åŠû1HÃÓRMINORZ
+CODE_SMELL
+†	java:S100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Äˆ”şÿÿÿÿ8ôèêŠû1HÄÓRMINORZ
+CODE_SMELL
+	java:S100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê…Ü€8ôèêŠû1HÅÓRMINORZ
+CODE_SMELL

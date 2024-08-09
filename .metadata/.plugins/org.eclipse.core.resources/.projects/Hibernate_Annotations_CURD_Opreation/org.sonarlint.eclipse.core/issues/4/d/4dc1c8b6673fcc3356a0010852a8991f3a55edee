@@ -1,0 +1,8 @@
+
+m
+java:S1128"4Remove this unused import 'One_to_one_Save.Address'.(Л▐ь╠№    8°л╥гє1HткRMINORZ
+CODE_SMELL
+Ж	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ж├║гH╟кRMINORZ
+CODE_SMELL
+Л	java:S116"SRename this field "Passport" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(╖Р╙┼∙    8╢┼╨гє1HркRMINORZ
+CODE_SMELL

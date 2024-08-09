@@ -1,0 +1,23 @@
+
+q
+java:S1874"?Remove this use of "AnnotationConfiguration"; it is deprecated.(ÅñØÀşÿÿÿÿH¾ñRMINORZ
+CODE_SMELL
+h
+java:S1874";Remove this use of "buildSessionFactory"; it is deprecated.(¼™¡åH¿ñRMINORZ
+CODE_SMELL
+b
+java:S1481 "0Remove this unused "transaction" local variable.(¹æ¢üÿÿÿÿHÀñRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÖØ^HÂñRMINORZ
+CODE_SMELL
+i	java:S125¯"<This block of commented-out lines of code should be removed.(±²ƒÏHÃñRMAJORZ
+CODE_SMELL
+q
+java:S1874"?Remove this use of "AnnotationConfiguration"; it is deprecated.(ÅñØÀşÿÿÿÿHÄñRMINORZ
+CODE_SMELL
+q
+java:S1854 "?Remove this useless assignment to local variable "transaction".(¹æ¢üÿÿÿÿHÅñRMAJORZ
+CODE_SMELL
+‚
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 85 to the 15 allowed.(Çµí‘HÆñRCRITICALZ
+CODE_SMELL

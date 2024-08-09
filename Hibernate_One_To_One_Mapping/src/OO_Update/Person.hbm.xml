@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+<class name = "OO_Update.Person" table= "Person_404">
+<id name ="personId" column = "person_Id">
+	<generator class="native" />
+	</id>
+<property name ="personName" column = "person_Name" length = "10"/>
+
+</class>
+</hibernate-mapping>

@@ -1,0 +1,10 @@
+
+j
+java:S1481"1Remove this unused "transaction1" local variable.( Ü´šùÿÿÿÿ8µ÷Å˜é1H­ÏRMINORZ
+CODE_SMELL
+y
+java:S1854"@Remove this useless assignment to local variable "transaction1".( Ü´šùÿÿÿÿ8µ÷Å˜é1H¬ÏRMAJORZ
+CODE_SMELL
+o
+java:S1874";Remove this use of "buildSessionFactory"; it is deprecated.(÷…¹þ8¤åÄ˜é1H«ÏRMINORZ
+CODE_SMELL

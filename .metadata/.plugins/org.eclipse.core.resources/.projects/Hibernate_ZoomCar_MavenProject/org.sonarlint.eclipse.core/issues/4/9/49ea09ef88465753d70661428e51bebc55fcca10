@@ -1,0 +1,15 @@
+
+x
+java:S1874"?Remove this use of "AnnotationConfiguration"; it is deprecated.(≈сЎјю€€€€8л”’ты1HНоRMINORZ
+CODE_SMELL
+t
+java:S1874";Remove this use of "buildSessionFactory"; it is deprecated.(ЧЎ®Фщ€€€€8л”’ты1HОоRMINORZ
+CODE_SMELL
+М	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘÷Ў^8л”’ты1HПоRMINORZ
+CODE_SMELL
+x
+java:S1874"?Remove this use of "AnnotationConfiguration"; it is deprecated.(≈сЎјю€€€€8л”’ты1HРоRMINORZ
+CODE_SMELL
+g
+java:S1128	"4Remove this unused import 'Dto.Book_Car_For_Mounth'.(єїЦm8“длты1HСоRMINORZ
+CODE_SMELL

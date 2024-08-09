@@ -1,0 +1,17 @@
+
+b
+java:S3740"/Provide the parametrized type for this generic.(©ìŽß8‰»»Ðå1HÄ5RMAJORZ
+CODE_SMELL
+i
+java:S1128	"6Remove this unused import 'org.hibernate.Transaction'.(ìÌè³8†™«©å1HÅ5RMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(âÎ¦»8‰»»Ðå1HÇ5RMAJORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8£ýÏ©å1HÈ5RMINORZ
+CODE_SMELL
+^
+java:S1128"+Remove this unused import 'com.ProductDTO'.(âø¤ß8‰»»Ðå1HÊ5RMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­¹†®HÌ5RMINORZ
+CODE_SMELL

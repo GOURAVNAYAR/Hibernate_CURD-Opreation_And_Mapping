@@ -1,0 +1,54 @@
+
+
+
+<project xmlns="https://maven.apache.org/POM/4.0.0" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+		<groupId>com.journaldev.hibernate</groupId>
+<artifactId>Hivernate_Ehcache_MavenProject</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<description>Hibernate Secondary Level Cache Example using EHCache implementation</description>
+
+<dependencies>
+<dependency>
+<groupId>org.hibernate</groupId>
+<artifactId>hibernate-core</artifactId>
+<version>4.3.5.Final</version>
+</dependency>
+
+<dependency>
+<groupId>mysql</groupId>
+<artifactId>mysql-connector-java</artifactId>
+<version>8.0.26</version>
+</dependency>
+
+
+<dependency>
+<groupId>net.sf.ehcache</groupId>
+<artifactId>ehcache-core</artifactId>
+<version>2.6.9</version>
+</dependency>
+
+
+<dependency>
+<groupId>org.hibernate</groupId>
+<artifactId>hibernate-ehcache</artifactId>
+<version>4.3.5.Final</version>
+</dependency>
+
+
+<dependency>
+<groupId>org.slf4j</groupId>
+<artifactId>slf4j-simple</artifactId>
+<version>1.7.5</version>
+</dependency>
+
+
+ <dependency>
+        <groupId>com.h2database</groupId>
+        <artifactId>h2</artifactId>
+        <version>1.4.200</version>
+    </dependency>
+</dependencies>	
+
+</project>

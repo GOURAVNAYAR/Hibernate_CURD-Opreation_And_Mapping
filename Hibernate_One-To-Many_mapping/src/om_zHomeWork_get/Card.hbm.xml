@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+
+<hibernate-mapping>
+
+	<class name="om_zHomeWork_get.Card" table="Card_1014">
+		<id name="cardId" column="cardId">
+
+		</id>
+
+
+		<property name="cardName" column="card_Name" />
+		<property name="cardType" column="card_Type" />
+
+	</class>
+</hibernate-mapping>

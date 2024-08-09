@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="om_Delete.Book" table="Book_102">
+
+		<id name="bookId" column="Book_id" />
+		<property name="bookName" column="Book_name" length="10" />
+
+		<set name="children" cascade="all">
+
+			<key column="forevenId" />
+			<one-to-many class="om_Delete.Page" />
+		</set>
+	</class>
+</hibernate-mapping>
+

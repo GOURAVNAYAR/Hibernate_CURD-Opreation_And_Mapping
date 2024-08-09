@@ -1,0 +1,11 @@
+
+t	java:S125"<This block of commented-out lines of code should be removed.(ß‡ıÁÿÿÿÿÿ8‘‚æó1Hß´RMAJORZ
+CODE_SMELL
+f
+java:S1128"2Remove this unused import 'CURD_opration.Product'.(ºäÒ8¤âó1Hç´RMINORZ
+CODE_SMELL
+i
+java:S1128"0Remove this unused import 'org.hibernate.Query'.(ıÜßùÿÿÿÿ8‘½Üó1Hé´RMINORZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹İàÒHë´RMINORZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+
+n
+java:S1874";Remove this use of "buildSessionFactory"; it is deprecated.(÷…¹þ8‰í¼ƒé1H¾WRMINORZ
+CODE_SMELL
+j
+java:S1128	"2Remove this unused import 'om_visual_save.Mother'.(”—áÇÿÿÿÿÿ8‘¶èƒé1H¼WRMINORZ
+CODE_SMELL
+l
+java:S1128"4Remove this unused import 'om_visual_save.Children'.(˜ÛôÈþÿÿÿÿ8‘¶èƒé1H¿WRMINORZ
+CODE_SMELL

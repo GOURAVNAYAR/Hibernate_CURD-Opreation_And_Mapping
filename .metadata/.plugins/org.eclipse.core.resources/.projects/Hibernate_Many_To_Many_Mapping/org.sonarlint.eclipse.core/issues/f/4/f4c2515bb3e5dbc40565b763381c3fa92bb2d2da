@@ -1,0 +1,17 @@
+
+œ
+java:S4165"dRemove this useless assignment; "pageId" already holds the assigned value along all execution paths.(·‹ø†øÿÿÿÿ8›Ö×•é1HÏVRMAJORZ
+CODE_SMELL
+ž
+java:S4165"fRemove this useless assignment; "pageName" already holds the assigned value along all execution paths.(î£’†þÿÿÿÿ8›Ö×•é1HÐVRMAJORZ
+CODE_SMELL
+r
+java:S1854":Remove this useless assignment to local variable "pageId".(·‹ø†øÿÿÿÿ8›Ö×•é1HÑVRMAJORZ
+CODE_SMELL
+`
+java:S1656"/Remove or correct this useless self-assignment.(·‹ø†øÿÿÿÿ8›Ö×•é1HÒVRMAJORZBUG
+t
+java:S1854"<Remove this useless assignment to local variable "pageName".(î£’†þÿÿÿÿ8›Ö×•é1HÔVRMAJORZ
+CODE_SMELL
+`
+java:S1656"/Remove or correct this useless self-assignment.(î£’†þÿÿÿÿ8›Ö×•é1HÕVRMAJORZBUG

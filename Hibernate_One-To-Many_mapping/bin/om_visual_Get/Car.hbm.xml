@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+
+<hibernate-mapping>
+
+	<class name="om_visual_Get.Car" table="Car_107">
+		<id name="carId" column="car_Id">
+
+		</id>
+		<property name="carName" column="car_name" />
+		<property name="carmodels" column="car_models" />
+	</class>
+</hibernate-mapping>

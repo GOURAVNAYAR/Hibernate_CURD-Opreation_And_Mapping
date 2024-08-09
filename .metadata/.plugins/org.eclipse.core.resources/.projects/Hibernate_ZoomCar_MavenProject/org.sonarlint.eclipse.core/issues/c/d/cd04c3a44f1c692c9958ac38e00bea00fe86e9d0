@@ -1,0 +1,20 @@
+
+y	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãş +H¹çRMINORZ
+CODE_SMELL
+c
+java:S11358"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHºçRINFOZ
+CODE_SMELL
+‹	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ßìÿÿÿÿÿH»çRMINORZ
+CODE_SMELL
+_
+java:S11689"+Return an empty collection instead of null.(¥¹ï8•¡æïû1H¼çRMAJORZ
+CODE_SMELL
+c
+java:S11353"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH¿çRINFOZ
+CODE_SMELL
+†	java:S116"ZRename this field "popular_placeId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïôŸHÀçRMINORZ
+CODE_SMELL
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÙŞğıÿÿÿÿHÁçRMINORZ
+CODE_SMELL
+‚	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÙŞğıÿÿÿÿHÂçRMINORZ
+CODE_SMELL

@@ -1,0 +1,12 @@
+
+q
+java:S1128"=Remove this unused import 'javax.persistence.GeneratedValue'.(¤®ΐ‚8―ωμ’τ1HΌ±RMINORZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(λπφH…±RMINORZ
+CODE_SMELL
+q
+java:S1128"=Remove this unused import 'javax.persistence.GenerationType'.(ύχυ΅8―ωμ’τ1HΎ±RMINORZ
+CODE_SMELL
+j
+java:S11354"2Complete the task associated to this TODO comment.(» ζÿÿÿÿÿ8¦§”τ1Hγ±RINFOZ
+CODE_SMELL

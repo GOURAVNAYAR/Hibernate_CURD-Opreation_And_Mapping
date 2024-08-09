@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JAR_file/Hibernate_All_JAR_File/Ajay sir jar file/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/JAR_file/Hibernate_All_JAR_File/Ajay sir jar file/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAR_file/Hibernate_All_JAR_File/Ajay sir jar file/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAR_file/Hibernate_All_JAR_File/Ajay sir jar file/hibernate-annotations-3.5.6-Final.jar"/>
+	<classpathentry kind="lib" path="C:/JAR_file/Hibernate_All_JAR_File/Ajay sir jar file/hibernate-commons-annotations-3.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/JAR_file/Hibernate_All_JAR_File/Ajay sir jar file/hibernate-core-3.5.6-Final.jar"/>
+	<classpathentry kind="lib" path="C:/JAR_file/Hibernate_All_JAR_File/Ajay sir jar file/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/JAR_file/Hibernate_All_JAR_File/Ajay sir jar file/javassist-3.12.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/JAR_file/Hibernate_All_JAR_File/Ajay sir jar file/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAR_file/Hibernate_All_JAR_File/Ajay sir jar file/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/JAR_file/Hibernate_All_JAR_File/Ajay sir jar file/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/JAR_file/Hibernate_All_JAR_File/Ajay sir jar file/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/JAR_file/Hibernate_All_JAR_File/Ajay sir jar file/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="C:/JAR_file/Hibernate_All_JAR_File/naitik ne send kari thi kar file/slf4j-nop-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GOURAV/Downloads/jar_files (10)/annotations-24.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

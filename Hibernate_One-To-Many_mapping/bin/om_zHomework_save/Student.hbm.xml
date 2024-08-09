@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+
+<hibernate-mapping>
+
+	<class name="om_zHomework_save.Student" table="Student_1011">
+		<id name="studentId" column="student_Id">
+		
+		</id>
+		
+		
+		<property name="studentName" column="student_Name" />
+		<property name="studentAge" column="studentAge" />
+		<property name="studentRollno" column="student_Rollno" />
+		
+	</class>
+</hibernate-mapping>

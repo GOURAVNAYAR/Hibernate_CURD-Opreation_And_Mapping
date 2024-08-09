@@ -1,0 +1,13 @@
+
+	java:S116"WRename this field "PassportName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ±´”ıÿÿÿÿ8êà£ó1HêªRMINORZ
+CODE_SMELL
+†	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëœè¥ÿÿÿÿÿ8‡·Ç£ó1HÖªRMINORZ
+CODE_SMELL
+‰	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëœè¥ÿÿÿÿÿ8‡·Ç£ó1HÑªRMINORZ
+CODE_SMELL
+	java:S116"VRename this field "Passport_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š§ †ıÿÿÿÿ8‡·Ç£ó1HÓªRMINORZ
+CODE_SMELL
+†	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÄê¤ıÿÿÿÿ8‡·Ç£ó1HÕªRMINORZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦Ãº£HÅªRMINORZ
+CODE_SMELL

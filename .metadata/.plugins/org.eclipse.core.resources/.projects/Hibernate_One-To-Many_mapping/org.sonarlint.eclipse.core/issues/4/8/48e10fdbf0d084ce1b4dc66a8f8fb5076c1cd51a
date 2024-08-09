@@ -1,0 +1,24 @@
+
+o	java:S1256"<This block of commented-out lines of code should be removed.(–Œáâ8™—Ó—ï1Hõ˜RMAJORZ
+CODE_SMELL
+o	java:S125A"<This block of commented-out lines of code should be removed.(–Œáâ8²¨ô—ï1Hí˜RMAJORZ
+CODE_SMELL
+t	java:S125$"<This block of commented-out lines of code should be removed.(€›õÿÿÿÿÿ8±º¿—ï1H‚™RMAJORZ
+CODE_SMELL
+c
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8°Ù™—ï1Hó˜RMINORZ
+CODE_SMELL
+m
+java:S1128
+"9Remove this unused import 'om_zHomework_update.Children'.(½ó¯8°Ù™—ï1H™RMINORZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÂú¿HŠ™RMINORZ
+CODE_SMELL
+x
+java:S1854"?Remove this useless assignment to local variable "transaction".(¹æ¢üÿÿÿÿ8ñ×©Áò1HÿœRMAJORZ
+CODE_SMELL
+i
+java:S1481"0Remove this unused "transaction" local variable.(¹æ¢üÿÿÿÿ8ñ×©Áò1H€RMINORZ
+CODE_SMELL
+t	java:S125"<This block of commented-out lines of code should be removed.(‰áÓÿÿÿÿÿ8ñ×©Áò1H‚RMAJORZ
+CODE_SMELL

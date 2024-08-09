@@ -1,0 +1,7 @@
+
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÂú¿H©‘RMINORZ
+CODE_SMELL
+ˆ	java:S116"WRename this field "PlaygroundId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£‰´¾ÿÿÿÿÿHª‘RMINORZ
+CODE_SMELL
+…	java:S116"YRename this field "PlaygroundName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÍçƒH«‘RMINORZ
+CODE_SMELL

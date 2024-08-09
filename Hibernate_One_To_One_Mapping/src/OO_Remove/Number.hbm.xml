@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="OO_Remove.Number" table="Number_403">
+		<id name="numberId" column="number_Id">
+			 <generator class="native"/>
+        </id>
+		
+		<one-to-one name="t" class="OO_Remove.Train" cascade="all" />
+	</class>
+</hibernate-mapping>

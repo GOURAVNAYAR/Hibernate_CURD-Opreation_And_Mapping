@@ -1,0 +1,17 @@
+package simple;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class Pac {
+
+	public static void main(String[] args) {	
+		String str = new String("automatic is Machaine");
+		String st = "automatic is Machaine";
+		char [] str1 = st.toCharArray(); 
+		
+	Set<String> set = new HashSet <> ();
+		set.add(str1);
+		System.out.println(set);
+	}
+}

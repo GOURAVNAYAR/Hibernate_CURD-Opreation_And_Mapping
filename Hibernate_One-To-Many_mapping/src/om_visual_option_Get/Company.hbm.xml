@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="om_visual_option_Get.Company" table="Company_108">
+
+		<id name="companyId" column="company_id" />
+		<property name="companyName" column="company_name"
+			length="10" />
+
+		<set name="children" cascade="all">
+
+			<key column="forevenId" />
+			<one-to-many class="om_visual_option_Get.Project" />
+		</set>
+	</class>
+</hibernate-mapping>
+

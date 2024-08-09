@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="mm_visual_delete">
+    <class name="Games" table="games">
+        <id name="gamesId" column="games_id">
+            <generator class="native"/>
+        </id>
+        <property name="gamesName" column="games_name"/>
+        <set name="students" table="student_games" inverse="true" lazy="true" fetch="select">
+            <key>
+                <column name="games_id" not-null="true"/>
+            </key>
+            <many-to-many entity-name="Student">
+                <column name="student_id" not-null="true"/>
+            </many-to-many>
+        </set>
+    </class>
+</hibernate-mapping>

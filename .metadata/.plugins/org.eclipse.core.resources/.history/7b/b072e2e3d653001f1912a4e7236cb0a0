@@ -1,0 +1,29 @@
+package simple;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class Pac {
+
+	public static void main(String[] args) {
+		String st = "automatic is Machaine";
+
+		int[] arr = new int[127];
+
+		for (int i = 0; i < arr.length; i++) {
+
+			arr[st.charAt(i)] = arr[st.charAt(i)] + 1;
+
+		}
+		int max = 0;
+		char c = 0;
+
+		for (int i = 0; i < arr.length-1; i++) {
+			if (max < arr[st.charAt(i)]);
+			max = arr[st.charAt(i)];
+			c = st.charAt(i);
+		}
+		System.out.println(c);
+
+	}
+}

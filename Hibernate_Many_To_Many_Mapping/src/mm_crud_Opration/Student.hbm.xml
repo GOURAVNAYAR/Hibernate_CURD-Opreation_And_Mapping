@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	  <class name="mm_crud_Opration.Student" table="students">
+        <id name="id" type="int">
+            <column name="student_id" />
+        </id>
+        <property name="name" />
+        <set name="courses" table="student_courses" cascade="all">
+            <key column="student_id" />
+            <many-to-many entity-name="mm_crud_Opration.Course">
+                <column name="course_id" />
+            </many-to-many> <!-- Closing properly -->
+        </set>
+    </class>
+</hibernate-mapping>

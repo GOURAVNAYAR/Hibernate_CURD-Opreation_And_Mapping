@@ -1,0 +1,19 @@
+
+†	java:S116"SRename this field "sim_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ª¬Π8θεσ1HΕ¨RMINORZ
+CODE_SMELL
+ƒ	java:S116"QRename this field "sim_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ΦΠl8θεσ1HΔ¨RMINORZ
+CODE_SMELL
+	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ή„γξ8Ϋªυσ1HΝ¨RMINORZ
+CODE_SMELL
+„	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ή„γξ8Ϋªυσ1HΙ¨RMINORZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•¤ύ®H«¨RMINORZ
+CODE_SMELL
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½—ϊκ8Ϋªυσ1HΛ¨RMINORZ
+CODE_SMELL
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ο™ΰο8Ϋªυσ1HΜ¨RMINORZ
+CODE_SMELL
+„	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½—ϊκ8Ϋªυσ1HΘ¨RMINORZ
+CODE_SMELL
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΟΒΗ8Ϋªυσ1HΚ¨RMINORZ
+CODE_SMELL

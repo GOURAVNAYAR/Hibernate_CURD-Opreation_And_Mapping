@@ -1,0 +1,7 @@
+
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ™ùHİÎRMINORZ
+CODE_SMELL
+	java:S116"URename this field "NetBanking" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( İÍ–ûÿÿÿÿ8³·àÏù1HŞÎRMINORZ
+CODE_SMELL
+‰	java:S116"QRename this field "Mobile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬şúáùÿÿÿÿ8³·àÏù1HÜÎRMINORZ
+CODE_SMELL

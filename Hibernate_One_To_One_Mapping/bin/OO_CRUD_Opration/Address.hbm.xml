@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="OO_CRUD_Opration.Address" table="addresses_405">
+		<id name="id" column="address_id">
+			<generator class="native" />
+		</id>
+		<property name="street" column="street" />
+		<property name="city" column="city" />
+		<property name="zipCode" column="zip_code" />
+	</class>
+</hibernate-mapping>

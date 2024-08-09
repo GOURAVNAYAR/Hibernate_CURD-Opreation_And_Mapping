@@ -1,0 +1,12 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÖØ^HóòRMINORZ
+CODE_SMELL
+q
+java:S1874"?Remove this use of "AnnotationConfiguration"; it is deprecated.(ÅñØÀþÿÿÿÿHôòRMINORZ
+CODE_SMELL
+h
+java:S1874";Remove this use of "buildSessionFactory"; it is deprecated.(¼™¡åHöòRMINORZ
+CODE_SMELL
+q
+java:S1874"?Remove this use of "AnnotationConfiguration"; it is deprecated.(ÅñØÀþÿÿÿÿHõòRMINORZ
+CODE_SMELL

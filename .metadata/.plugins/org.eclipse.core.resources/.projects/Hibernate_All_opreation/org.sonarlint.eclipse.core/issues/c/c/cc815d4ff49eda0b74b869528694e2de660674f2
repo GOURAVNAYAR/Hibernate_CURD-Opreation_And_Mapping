@@ -1,0 +1,13 @@
+
+£
+java:S1130
+"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(‘–µ¥Hþ0RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÄ£ïýÿÿÿÿH€1RMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(º‰á†ýÿÿÿÿH1RMAJORZ
+CODE_SMELL
+V
+java:S1197
+"*Move the array designators [] to the type.(‘–µ¥H‚1RMINORZ
+CODE_SMELL

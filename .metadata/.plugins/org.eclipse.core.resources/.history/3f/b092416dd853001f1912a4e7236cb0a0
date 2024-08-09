@@ -1,0 +1,14 @@
+package simple;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class Pac {
+
+	public static void main(String[] args) {
+		String st = "automaticcccc is Machaine";
+
+		
+
+	}
+}

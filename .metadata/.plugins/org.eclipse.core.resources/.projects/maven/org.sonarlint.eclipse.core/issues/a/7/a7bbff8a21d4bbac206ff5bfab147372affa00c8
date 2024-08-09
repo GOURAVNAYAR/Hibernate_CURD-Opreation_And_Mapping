@@ -1,0 +1,9 @@
+
+h
+java:S1874";Remove this use of "buildSessionFactory"; it is deprecated.(¼™¡åHRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÖØ^HŸRMINORZ
+CODE_SMELL
+’
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(—Îİıÿÿÿÿ8×Ÿ®°ÿ1H RMINORZ
+CODE_SMELL

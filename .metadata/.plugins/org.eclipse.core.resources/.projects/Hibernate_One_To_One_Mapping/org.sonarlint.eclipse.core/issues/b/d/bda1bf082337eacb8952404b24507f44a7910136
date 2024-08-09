@@ -1,0 +1,9 @@
+
+e
+java:S1128",Remove this unused import 'OO_Save.Address'.(²Ð†¬øÿÿÿÿ8Ò–©æí1H«žRMINORZ
+CODE_SMELL
+_
+java:S1128	",Remove this unused import 'OO_Save.Student'.(Á£¾G8Ò–©æí1H­žRMINORZ
+CODE_SMELL
+‹	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áßÜªøÿÿÿÿH¯žRMINORZ
+CODE_SMELL

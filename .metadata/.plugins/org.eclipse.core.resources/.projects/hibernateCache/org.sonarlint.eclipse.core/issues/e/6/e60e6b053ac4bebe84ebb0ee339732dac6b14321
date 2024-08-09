@@ -1,0 +1,22 @@
+
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚†Ÿ
+HÆ4RMINORZ
+CODE_SMELL
+g	java:S125="<This block of commented-out lines of code should be removed.(§ê¸HÇ4RMAJORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(—˜òŠHÈ4RMAJORZ
+CODE_SMELL
+l	java:S1252"<This block of commented-out lines of code should be removed.(Ò‡àëýÿÿÿÿHÌ4RMAJORZ
+CODE_SMELL
+¢
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú7HÍ4RMINORZ
+CODE_SMELL
+l	java:S125."<This block of commented-out lines of code should be removed.(Þ–¥£úÿÿÿÿHÏ4RMAJORZ
+CODE_SMELL
+Z
+java:S1144O".Remove this unused private "printData" method.(§Åð¾HÑ4RMAJORZ
+CODE_SMELL
+g	java:S1258"<This block of commented-out lines of code should be removed.(ÃØÐŠHÓ4RMAJORZ
+CODE_SMELL
+g	java:S1255"<This block of commented-out lines of code should be removed.(šêÍHÔ4RMAJORZ
+CODE_SMELL

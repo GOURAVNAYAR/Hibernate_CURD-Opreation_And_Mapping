@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+
+<hibernate-mapping>
+
+	<class name="om_Get.Customer" table="Customer_103">
+		<id name="customerId" column="customer_Id">
+		
+		</id>
+		<property name="customerName" column="customer_Name" />
+		<property name="customerNumber" column="customerNumber" />
+		<property name="customerAccountType" column="customer_AccountType" />
+		<property name="customerAccountnumber" column="customer_Accountnumber" />
+		<property name="forevenId" column="forevenId" />
+		
+	</class>
+</hibernate-mapping>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+  
+<hibernate-mapping>
+
+    <class name="OO_visualGet.Question" table="Question">
+        <id name="questionId" column="question_id">
+            <generator class="native"/>
+        </id>
+        <property name="questionName" column="question_name"/>
+        <one-to-one name="a" class="OO_visualGet.Answer" property-ref="q"/>
+    </class>
+
+</hibernate-mapping>

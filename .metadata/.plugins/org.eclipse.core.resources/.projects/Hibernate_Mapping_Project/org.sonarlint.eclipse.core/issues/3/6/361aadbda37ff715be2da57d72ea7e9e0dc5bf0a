@@ -1,0 +1,14 @@
+
+„	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¬Òÿ8ëâì¯ù1H¨¿RMINORZ
+CODE_SMELL
+	java:S116 "WRename this field "sub_Division" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®•§İüÿÿÿÿ8ëâì¯ù1H©¿RMINORZ
+CODE_SMELL
+†	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ç ıùÿÿÿÿ8ëâì¯ù1Hª¿RMINORZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ™ùH£¿RMINORZ
+CODE_SMELL
+	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¬Òÿ8ëâì¯ù1H«¿RMINORZ
+CODE_SMELL
+j
+java:S1135;"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8·„”°ù1HÇ¿RINFOZ
+CODE_SMELL

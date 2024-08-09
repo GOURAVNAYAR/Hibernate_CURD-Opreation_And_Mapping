@@ -1,0 +1,10 @@
+
+n
+java:S1874
+";Remove this use of "buildSessionFactory"; it is deprecated.(¥Â√N8Œßﬂ‚‰1HòÒRMINORZ
+CODE_SMELL
+t	java:S125"<This block of commented-out lines of code should be removed.(∫â·Ü˝ˇˇˇˇ8ËΩ©„‰1HôÒRMAJORZ
+CODE_SMELL
+j
+java:S1128"6Remove this unused import 'org.hibernate.Transaction'.(ÏÃË≥8ËΩ©„‰1HöÒRMINORZ
+CODE_SMELL

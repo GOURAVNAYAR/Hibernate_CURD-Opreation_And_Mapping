@@ -1,0 +1,15 @@
+package simple;
+
+public class Pac {
+
+	public static void main(String[] args) {	
+		String str = new String("automatic is Machaine");
+		String st = "automatic is Machaine";
+		
+		String a =  st.replace("a","q");
+		String a1 = st.replaceFirst("a", "ooo");
+		String a2 = st.replaceAll("a", "pp");
+		String a3 = st.replaceAll("a(.)", "pp");
+		 System.out.println(a3);
+	}
+}

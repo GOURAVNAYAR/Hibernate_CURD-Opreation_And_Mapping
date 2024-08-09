@@ -1,0 +1,11 @@
+
+t
+java:S1128
+"ARemove this unused import 'org.hibernate.criterion.Restrictions'.(µ¾‘8´ñÌà1HšRMINORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(áÑİ±øÿÿÿÿ8ÆƒÆÌà1HœRMAJORZ
+CODE_SMELL
+b
+java:S3740"/Provide the parametrized type for this generic.(¬Ë8ÇĞÅà1HRMAJORZ
+CODE_SMELL

@@ -1,0 +1,15 @@
+
+‹	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ίμÿÿÿÿÿH•RMINORZ
+CODE_SMELL
+S
+java:S11687"&Return an empty array instead of null.(¥ΉοH•RMAJORZ
+CODE_SMELL
+c
+java:S11356"2Complete the task associated to this TODO comment.(» ζÿÿÿÿÿH•RINFOZ
+CODE_SMELL
+S
+java:S1168<"&Return an empty array instead of null.(¥ΉοH•RMAJORZ
+CODE_SMELL
+c
+java:S1135;"2Complete the task associated to this TODO comment.(» ζÿÿÿÿÿH’•RINFOZ
+CODE_SMELL

@@ -1,0 +1,11 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ªãƒøÿÿÿÿHŸRMINORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(«ûÑ›ûÿÿÿÿ8èŒ¬œá1H¤RMAJORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(áÑÝ±øÿÿÿÿ8èŒ¬œá1H¥RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(«î±Ãúÿÿÿÿ8´ç¬œá1H¨RMAJORZ
+CODE_SMELL

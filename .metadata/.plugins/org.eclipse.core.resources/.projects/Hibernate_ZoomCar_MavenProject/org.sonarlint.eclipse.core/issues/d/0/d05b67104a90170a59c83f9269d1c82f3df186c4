@@ -1,0 +1,13 @@
+
+z	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΫασΞH¬ηRMINORZ
+CODE_SMELL
+	java:S116"]Rename this field "AboutZoomcar_About" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Β‹ήH­ηRMINORZ
+CODE_SMELL
+	java:S116"TRename this field "AboutUsId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(η²ΧH®ηRMINORZ
+CODE_SMELL
+‹	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ίμÿÿÿÿÿH―ηRMINORZ
+CODE_SMELL
+}	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—΅ΔH°ηRMINORZ
+CODE_SMELL
+z	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—΅ΔH±ηRMINORZ
+CODE_SMELL

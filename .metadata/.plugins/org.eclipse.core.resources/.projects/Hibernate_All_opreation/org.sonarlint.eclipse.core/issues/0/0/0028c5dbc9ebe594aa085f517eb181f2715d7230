@@ -1,0 +1,13 @@
+
+^
+java:S1128
+"+Remove this unused import 'com.ProductDTO'.(âø¤ß8ïÔåã1Hé-RMINORZ
+CODE_SMELL
+n	java:S125&"<This block of commented-out lines of code should be removed.(°ÚÎÅ8Ùã1Hë-RMAJORZ
+CODE_SMELL
+i
+java:S1854"6Remove this useless assignment to local variable "id".(¢Ôì8¸Ïİã1Hõ-RMAJORZ
+CODE_SMELL
+Z
+java:S1481"'Remove this unused "id" local variable.(¢Ôì8¸Ïİã1Hö-RMINORZ
+CODE_SMELL

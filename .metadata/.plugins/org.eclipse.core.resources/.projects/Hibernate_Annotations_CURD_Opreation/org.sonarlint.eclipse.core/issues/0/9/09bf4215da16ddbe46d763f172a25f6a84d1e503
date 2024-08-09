@@ -1,0 +1,17 @@
+
+‚
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Çµí‘HÏÎRCRITICALZ
+CODE_SMELL
+~	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÇÎÔHÊÎRMINORZ
+CODE_SMELL
+c
+java:S1128	"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8­¥Âøú1H”ÏRMINORZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°éŠ±HÍÎRMINORZ
+CODE_SMELL
+X	java:S131""Add a default case to this switch.(°Ó÷8¸À½ùò1HÚÎRCRITICALZ
+CODE_SMELL
+h	java:S125H"<This block of commented-out lines of code should be removed.(™˜ıŠHÎÎRMAJORZ
+CODE_SMELL
+t	java:S125:"<This block of commented-out lines of code should be removed.(Ü¶“ÿÿÿÿÿ8„ Çøú1H¥ÏRMAJORZ
+CODE_SMELL

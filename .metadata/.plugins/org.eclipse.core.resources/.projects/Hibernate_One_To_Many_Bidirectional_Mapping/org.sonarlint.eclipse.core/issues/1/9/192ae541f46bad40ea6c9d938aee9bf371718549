@@ -1,0 +1,9 @@
+
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8ŠÁµˆê1H»xRMINORZ
+CODE_SMELL
+b
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8ŠÁµˆê1H½xRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÂú¿H¿xRMINORZ
+CODE_SMELL

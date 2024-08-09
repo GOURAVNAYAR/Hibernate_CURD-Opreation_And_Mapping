@@ -1,0 +1,11 @@
+
+g	java:S125:"<This block of commented-out lines of code should be removed.(³ÂòÕHéKRMAJORZ
+CODE_SMELL
+V
+java:S1128"+Remove this unused import 'om_Delete.Page'.(ß ÌHëKRMINORZ
+CODE_SMELL
+|	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦â¼§HíKRMINORZ
+CODE_SMELL
+W
+java:S1128"+Remove this unused import 'om_Delete.Book'.(›Ö –HîKRMINORZ
+CODE_SMELL

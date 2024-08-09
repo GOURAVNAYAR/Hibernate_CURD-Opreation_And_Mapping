@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+
+<hibernate-mapping>
+
+	<class name="om_Delete.Page" table="Page_102">
+		<id name="pageId" column="page_id">
+		
+		</id>
+		
+		
+		<property name="pageName" column="page_name" />
+		<property name="pageTopic" column="page_Topic" />
+		<property name="forevenId" column="forevenId" />
+	</class>
+</hibernate-mapping>

@@ -1,0 +1,11 @@
+
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ™ùHÄÒRMINORZ
+CODE_SMELL
+’	java:S116"ZRename this field "distcenter_zone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸òÁŸÿÿÿÿÿ8¥à‰û1HÅÒRMINORZ
+CODE_SMELL
+‰	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àæ–úÿÿÿÿ8ûŞô‰û1HÆÒRMINORZ
+CODE_SMELL
+†	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ñàşÿÿÿÿÿ8ûŞô‰û1HÇÒRMINORZ
+CODE_SMELL
+†	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àæ–úÿÿÿÿ8ûŞô‰û1HÈÒRMINORZ
+CODE_SMELL

@@ -1,0 +1,41 @@
+
+„	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ο•·έ8Ϊϊπέχ1H”»RMINORZ
+CODE_SMELL
+	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€δΐ€8Ϊϊπέχ1H•»RMINORZ
+CODE_SMELL
+	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ο•·έ8Ϊϊπέχ1H»RMINORZ
+CODE_SMELL
+†	java:S116)"SRename this field "District" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Λ›Τ8’ύοέχ1H»RMINORZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ™ωH»RMINORZ
+CODE_SMELL
+†	java:S116&"NRename this field "Pin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Λ„‡ωÿÿÿÿ8’ύοέχ1H“»RMINORZ
+CODE_SMELL
+†	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(η±ύÿÿÿÿ8Ϊϊπέχ1H»RMINORZ
+CODE_SMELL
+l
+java:S1128"8Remove this unused import 'javax.persistence.FetchType'.(‡―Ώ8…²‰ψ1Hξ»RMINORZ
+CODE_SMELL
+	java:S116 "PRename this field "State" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΥΎρΰϊÿÿÿÿ8’ύοέχ1H»RMINORZ
+CODE_SMELL
+”	java:S116"\Rename this field "address_Permanent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ξ΄ϊÿÿÿÿ8’ύοέχ1H΅»RMINORZ
+CODE_SMELL
+€	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ψ¦8Ϊϊπέχ1H»RMINORZ
+CODE_SMELL
+„	java:S116#"RRename this field "Country" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„’98’ύοέχ1H›»RMINORZ
+CODE_SMELL
+„	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¦ψ8Ϊϊπέχ1H»RMINORZ
+CODE_SMELL
+ƒ	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ψ¦8Ϊϊπέχ1H»RMINORZ
+CODE_SMELL
+	java:S116"\Rename this field "address_Temporary" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›8’ύοέχ1H—»RMINORZ
+CODE_SMELL
+	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¦ψ8Ϊϊπέχ1H »RMINORZ
+CODE_SMELL
+	java:S116"URename this field "address_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©®’ά8’ύοέχ1Hκ»RMINORZ
+CODE_SMELL
+†	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(―£ϊ€ωÿÿÿÿ8Ϊϊπέχ1H™»RMINORZ
+CODE_SMELL
+j
+java:S1135p"2Complete the task associated to this TODO comment.(» ζÿÿÿÿÿ8λ£µ‰ψ1HΌRINFOZ
+CODE_SMELL

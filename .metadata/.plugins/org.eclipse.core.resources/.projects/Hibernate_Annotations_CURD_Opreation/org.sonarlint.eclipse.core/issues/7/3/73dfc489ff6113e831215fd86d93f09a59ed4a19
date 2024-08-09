@@ -1,0 +1,10 @@
+
+	java:S116"URename this field "MobileName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÈé–şÿÿÿÿ8š’ô1H³±RMINORZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëğöH®±RMINORZ
+CODE_SMELL
+‹	java:S116"SRename this field "MobileId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢íãùÿÿÿÿ8š’ô1H´±RMINORZ
+CODE_SMELL
+j
+java:S1135A"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8 µì’ô1Hµ±RINFOZ
+CODE_SMELL

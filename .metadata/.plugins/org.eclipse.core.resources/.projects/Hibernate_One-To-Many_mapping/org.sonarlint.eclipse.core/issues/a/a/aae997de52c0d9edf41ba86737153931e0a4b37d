@@ -1,0 +1,11 @@
+
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–…™àıÿÿÿÿH­HRMINORZ
+CODE_SMELL
+g	java:S1258"<This block of commented-out lines of code should be removed.(³ÂòÕH®HRMAJORZ
+CODE_SMELL
+W
+java:S1128"+Remove this unused import 'om_Delete.Book'.(›Ö –H°HRMINORZ
+CODE_SMELL
+V
+java:S1128"+Remove this unused import 'om_Delete.Page'.(ß ÌH²HRMINORZ
+CODE_SMELL

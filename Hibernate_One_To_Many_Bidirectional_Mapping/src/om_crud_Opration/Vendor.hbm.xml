@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="om_crud_Opration.Vendor" table="Vendor_101">
+
+		<id name="vendorId" column="vendor_Id" />
+		<property name="vendorName" column="vendor_Name" length="10" />
+
+		<set name="children" cascade="all" inverse="true">  <!--false  -->
+
+			<key column="forevenId" />
+
+		 	   <one-to-many class="om_crud_Opration.Customer"/>
+		</set>
+	</class>
+</hibernate-mapping>
+

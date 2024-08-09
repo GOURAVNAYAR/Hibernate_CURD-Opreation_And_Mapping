@@ -1,0 +1,12 @@
+
+o
+java:S1874";Remove this use of "buildSessionFactory"; it is deprecated.(Ό™΅ε8εοςϋ1H¤ξRMINORZ
+CODE_SMELL
+x
+java:S1874"?Remove this use of "AnnotationConfiguration"; it is deprecated.(ΕρΨΐώÿÿÿÿ8εοςϋ1H£ξRMINORZ
+CODE_SMELL
+x
+java:S1874"?Remove this use of "AnnotationConfiguration"; it is deprecated.(ΕρΨΐώÿÿÿÿ8εοςϋ1HΆξRMINORZ
+CODE_SMELL
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΤΦΨ^8εοςϋ1H΅ξRMINORZ
+CODE_SMELL

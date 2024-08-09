@@ -1,0 +1,44 @@
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <!-- Database connection settings -->
+
+		<property name="connection.url">jdbc:mysql://localhost:3306/Annotations_base</property>
+		<property name="connection.user">root</property>
+		<property name="connection.password">root</property>
+        <!-- JDBC connection pool settings -->
+        <property name="hibernate.c3p0.min_size">5</property>
+        <property name="hibernate.c3p0.max_size">20</property>
+        <property name="hibernate.c3p0.timeout">300</property>
+        <property name="hibernate.c3p0.max_statements">50</property>
+        <property name="hibernate.c3p0.idle_test_period">3000</property>
+		
+        <!-- SQL dialect -->
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+
+        <!-- Echo all executed SQL to stdout -->
+        <property name="hibernate.show_sql">true</property>
+
+        <!-- Drop and re-create the database schema on startup -->
+        <property name="hibernate.hbm2ddl.auto">create</property>
+
+    
+        <mapping class="com.Dto.Address" />
+		<mapping class="com.Dto.Company" />
+		<mapping class="com.Dto.Circle" />
+		<mapping class="com.Dto.Company_has_role" />
+		<mapping class="com.Dto.Division" />
+		<mapping class="com.Dto.Region" />
+		<mapping class="com.Dto.Role" />
+		<mapping class="com.Dto.Sub_Division" />
+		<mapping class="com.Dto.Division_has_role" />
+		<mapping class="com.Dto.User_has_role" />
+		<mapping class="com.Dto.Region_has_role" />
+		<mapping class="com.Dto.Circle_has_role" />
+		<mapping class="com.Dto.Distcenter_zone_has_role" />
+		<mapping class="com.Dto.Distcenter_zone"/>
+		<mapping class="com.Dto.cbism_substation_log" />
+		<mapping class="com.Dto.dtaMFM" />
+    </session-factory>
+</hibernate-configuration>

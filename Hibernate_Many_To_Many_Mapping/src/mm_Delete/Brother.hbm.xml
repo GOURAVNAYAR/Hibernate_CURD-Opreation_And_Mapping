@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="mm_Delete.Brother" table="Brother_301">
+
+		<id name="brotherId" column="brother_Id" />
+		 <generator class="native" />
+		<property name="brotherName" column="brother_Name"
+			length="10" />
+		<property name="brotherAge" column="brother_Age" length="10" />
+
+
+		<set name="sister" cascade="all" table="Brother_Sister">
+			<key column="brother_Id" />
+			<many-to-many class="mm_Delete.Sister" column="sisterId" />
+		</set>
+
+
+
+	</class>
+</hibernate-mapping>
+

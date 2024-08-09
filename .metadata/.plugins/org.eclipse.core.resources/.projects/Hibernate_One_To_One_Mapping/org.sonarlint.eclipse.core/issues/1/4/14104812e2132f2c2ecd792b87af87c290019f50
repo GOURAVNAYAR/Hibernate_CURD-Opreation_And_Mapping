@@ -1,0 +1,11 @@
+
+`
+java:S1481"'Remove this unused "tx" local variable.(´ü¶ëûÿÿÿÿ8œÖáıî1H£§RMINORZ
+CODE_SMELL
+o
+java:S1854"6Remove this useless assignment to local variable "tx".(´ü¶ëûÿÿÿÿ8øîÃıî1H¡§RMAJORZ
+CODE_SMELL
+o	java:S1254"<This block of commented-out lines of code should be removed.(™˜ıŠ8ÍÓÖ‘ï1H¢§RMAJORZ
+CODE_SMELL
+‹	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨¹´ıÿÿÿÿH¥§RMINORZ
+CODE_SMELL

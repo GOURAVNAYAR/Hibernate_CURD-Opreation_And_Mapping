@@ -1,0 +1,10 @@
+
+d
+java:S1128	"1Remove this unused import 'om_visual_Get.Person'.(•ö8¢«…é1HÛVRMINORZ
+CODE_SMELL
+d
+java:S1128"1Remove this unused import 'om_visual_Get.Mobile'.(ú’Û´8¢«…é1HÙVRMINORZ
+CODE_SMELL
+n
+java:S1874";Remove this use of "buildSessionFactory"; it is deprecated.(÷…¹ş8¢«…é1HİVRMINORZ
+CODE_SMELL

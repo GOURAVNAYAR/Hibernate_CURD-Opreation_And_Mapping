@@ -1,0 +1,7 @@
+
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ™ùHëÏRMINORZ
+CODE_SMELL
+–	java:S116"^Rename this field "PlaceForEducationId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ºşäüÿÿÿÿ8Æı‹Ğù1HìÏRMINORZ
+CODE_SMELL
+–	java:S116"cRename this field "Place_For_EducationAbout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“˜¸8Æı‹Ğù1HíÏRMINORZ
+CODE_SMELL

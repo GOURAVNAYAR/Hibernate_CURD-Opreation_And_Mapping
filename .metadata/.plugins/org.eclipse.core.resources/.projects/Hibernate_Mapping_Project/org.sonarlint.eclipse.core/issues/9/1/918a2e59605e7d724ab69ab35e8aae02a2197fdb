@@ -1,0 +1,27 @@
+
+	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì“Ÿ8Ç¬Ó‰û1HµÒRMINORZ
+CODE_SMELL
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àß‹ï8Ç¬Ó‰û1H¶ÒRMINORZ
+CODE_SMELL
+„	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àß‹ï8Ç¬Ó‰û1H·ÒRMINORZ
+CODE_SMELL
+	java:S116"\Rename this field "distcenter_zoneId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ûê8ÖĞ‰û1H¸ÒRMINORZ
+CODE_SMELL
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¸²Ê8Ç¬Ó‰û1H¹ÒRMINORZ
+CODE_SMELL
+‰	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ ¡¬øÿÿÿÿ8Ç¬Ó‰û1HºÒRMINORZ
+CODE_SMELL
+†	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ ¡¬øÿÿÿÿ8Ç¬Ó‰û1H»ÒRMINORZ
+CODE_SMELL
+™	java:S116"aRename this field "distcenter_zoneAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­í…¨ûÿÿÿÿ8ÖĞ‰û1H¼ÒRMINORZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ™ùH½ÒRMINORZ
+CODE_SMELL
+„	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¾¸ƒ8®šó‰û1H¾ÒRMINORZ
+CODE_SMELL
+‘	java:S116"^Rename this field "distcenter_zoneName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öı›8®šó‰û1H¿ÒRMINORZ
+CODE_SMELL
+†	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÛŸçşÿÿÿÿ8®šó‰û1HÀÒRMINORZ
+CODE_SMELL
+	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¾¸ƒ8®šó‰û1HÁÒRMINORZ
+CODE_SMELL

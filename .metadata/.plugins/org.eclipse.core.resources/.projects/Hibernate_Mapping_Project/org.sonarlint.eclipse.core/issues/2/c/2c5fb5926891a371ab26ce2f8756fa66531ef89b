@@ -1,0 +1,17 @@
+
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨§“Ö8ÿ«¢±ù1HâÑRMINORZ
+CODE_SMELL
+„	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨§“Ö8ÿ«¢±ù1HŞÑRMINORZ
+CODE_SMELL
+”	java:S116"\Rename this field "Circle_has_roleId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ˆıøÿÿÿÿ8†Ÿ±ù1HßÑRMINORZ
+CODE_SMELL
+†	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÕ¬ùùÿÿÿÿ8ÿ«¢±ù1HàÑRMINORZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ™ùHáÑRMINORZ
+CODE_SMELL
+q
+java:S1128"=Remove this unused import 'javax.persistence.GeneratedValue'.(¤®À‚8Ñğ‰û1HæÑRMINORZ
+CODE_SMELL
+q
+java:S1128	"=Remove this unused import 'javax.persistence.GenerationType'.(ı÷õ¡8Ñğ‰û1HèÑRMINORZ
+CODE_SMELL

@@ -1,0 +1,48 @@
+
+
+java:S2159"ZRemove this call to "equals"; comparisons between a type and an array always return false.(ÕÀİÀüÿÿÿÿ8Å±Á‘2H©ÀRMAJORZBUG
+Z
+java:S2129‰" Remove this "String" constructor(­ä”„ÿÿÿÿÿ8«„‘2HªÀRMAJORZ
+CODE_SMELL
+P
+java:S1643"Use a StringBuilder instead.(®šÍ“8‚Á³ä2H¤ÀRMINORZ
+CODE_SMELL
+”
+java:S1149Š"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ãäà·8«„‘2HÀRMAJORZ
+CODE_SMELL
+a
+java:S1481‹"'Remove this unused "so" local variable.(©›Ûıÿÿÿÿ8«„‘2H¥ÀRMINORZ
+CODE_SMELL
+k
+java:S1854Š"6Remove this useless assignment to local variable "bh".(Ãäà·8«„‘2HÀRMAJORZ
+CODE_SMELL
+„
+java:S5361="HReplace this call to "replaceAll()" by a call to the "replace()" method.(÷¬ªıÿÿÿÿ8ÙŸ¯ç2HˆÀRCRITICALZ
+CODE_SMELL
+p
+java:S1854‹"6Remove this useless assignment to local variable "so".(©›Ûıÿÿÿÿ8«„‘2HŠÀRMAJORZ
+CODE_SMELL
+’
+java:S3012O"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ì Ïøÿÿÿÿ8×‰åç2H‰ÀRMINORZ
+CODE_SMELL
+m
+java:S2130p"9Use "Integer.parseInt" for this string-to-int conversion.(•ß‘8ñÀ÷‘2H£ÀRMINORZ
+CODE_SMELL
+q
+java:S1854‰"7Remove this useless assignment to local variable "stu".(­ä”„ÿÿÿÿÿ8«„‘2H§ÀRMAJORZ
+CODE_SMELL
+‰
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çµí‘8ß·¦Á‘2H‘ÀRCRITICALZ
+CODE_SMELL
+“
+java:S1149w"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8É‘é‘2H¨ÀRMAJORZ
+CODE_SMELL
+b
+java:S1481‰"(Remove this unused "stu" local variable.(­ä”„ÿÿÿÿÿ8«„‘2HÀRMINORZ
+CODE_SMELL
+\
+java:S1481Š"'Remove this unused "bh" local variable.(Ãäà·8«„‘2H‹ÀRMINORZ
+CODE_SMELL
+c
+java:S1481,"*Remove this unused "count" local variable.(Å˜Ó¢ıÿÿÿÿ8Ñ€ş¸’2HÂÁRMINORZ
+CODE_SMELL

@@ -1,0 +1,20 @@
+
+n
+java:S1874";Remove this use of "buildSessionFactory"; it is deprecated.(÷…¹ş8†ÿ†é1HŸWRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Û€ê»üÿÿÿÿH WRMINORZ
+CODE_SMELL
+s	java:S125 "<This block of commented-out lines of code should be removed.(„ÄáÑúÿÿÿÿ8ÑÊô—é1HªWRMAJORZ
+CODE_SMELL
+s	java:S125%"<This block of commented-out lines of code should be removed.(„ÄáÑúÿÿÿÿ8ÑÊô—é1H«WRMAJORZ
+CODE_SMELL
+s	java:S125*"<This block of commented-out lines of code should be removed.(„ÄáÑúÿÿÿÿ8ÑÊô—é1H¬WRMAJORZ
+CODE_SMELL
+s	java:S125/"<This block of commented-out lines of code should be removed.(„ÄáÑúÿÿÿÿ8ÑÊô—é1H­WRMAJORZ
+CODE_SMELL
+l
+java:S1128"4Remove this unused import 'om_visual_save.Children'.(˜ÛôÈşÿÿÿÿ8ÑÊô—é1H®WRMINORZ
+CODE_SMELL
+j
+java:S1128	"2Remove this unused import 'om_visual_save.Mother'.(”—áÇÿÿÿÿÿ8ÑÊô—é1H°WRMINORZ
+CODE_SMELL

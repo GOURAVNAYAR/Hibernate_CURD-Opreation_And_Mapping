@@ -1,0 +1,17 @@
+
+g
+java:S3740"/Provide the parametrized type for this generic.(áÑÝ±øÿÿÿÿ8ú¹‹‡ã1Hä*RMAJORZ
+CODE_SMELL
+m	java:S125"<This block of commented-out lines of code should be removed.(Ðôüq8ôÓ´œá1Hå*RMAJORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(«ûÑ›ûÿÿÿÿ8²òéâ1Hæ*RMAJORZ
+CODE_SMELL
+t
+java:S1854"<Remove this useless assignment to local variable "hqlQuery".(»ªèúÿÿÿÿ8ú¹‹‡ã1Hç*RMAJORZ
+CODE_SMELL
+e
+java:S1481"-Remove this unused "hqlQuery" local variable.(»ªèúÿÿÿÿ8ú¹‹‡ã1Hè*RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ªãƒøÿÿÿÿHê*RMINORZ
+CODE_SMELL

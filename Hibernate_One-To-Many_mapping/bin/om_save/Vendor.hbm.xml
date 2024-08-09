@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+    <class name="om_save.Vendor" table="vendor101">
+
+        <id name="vendorId" column="vender_ID">
+        </id>
+        <property name="venderName" column="V_NAME" /> <!-- Corrected property tag -->
+
+        <set name="children" cascade="all">   <!-- They are allowed to mapping -->
+            
+            <key column="forevenId"/>
+            <one-to-many class="om_save.Customer" />
+            
+        </set>
+
+    </class>
+
+</hibernate-mapping>

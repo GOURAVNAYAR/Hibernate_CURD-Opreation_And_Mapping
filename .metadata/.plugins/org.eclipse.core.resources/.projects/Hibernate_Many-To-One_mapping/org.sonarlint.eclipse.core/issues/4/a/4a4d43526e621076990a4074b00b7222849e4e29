@@ -1,0 +1,9 @@
+
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·–ñûÿÿÿÿ8— ¿òè1HùRRMINORZ
+CODE_SMELL
+m
+java:S1874";Remove this use of "buildSessionFactory"; it is deprecated.(ñƒ¸m8— ¿òè1HüRRMINORZ
+CODE_SMELL
+i
+java:S1128"6Remove this unused import 'org.hibernate.Transaction'.(ìÌè³8Ì·öè1HúRRMINORZ
+CODE_SMELL

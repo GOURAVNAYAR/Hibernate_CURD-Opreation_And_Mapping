@@ -1,0 +1,18 @@
+package simple;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class Pac {
+
+	public static void main(String[] args) {
+		String input = " ";
+		String st = "automaticcccc is Machaine";
+
+		for (int i = st.length(); i >= 0; i--) {
+
+			input = input + st.charAt(i);
+		}
+
+	}
+}

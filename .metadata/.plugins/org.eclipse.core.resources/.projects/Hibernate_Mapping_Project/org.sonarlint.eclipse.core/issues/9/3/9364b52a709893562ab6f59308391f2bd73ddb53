@@ -1,0 +1,27 @@
+
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ™ùHËÒRMINORZ
+CODE_SMELL
+	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ú«8‰Âğ¯ù1HÌÒRMINORZ
+CODE_SMELL
+„	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¥È·8‰Âğ¯ù1HÍÒRMINORZ
+CODE_SMELL
+†	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôšÚÿÿÿÿÿ8‰Âğ¯ù1HÎÒRMINORZ
+CODE_SMELL
+ƒ	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥´ß*8‰Âğ¯ù1HÏÒRMINORZ
+CODE_SMELL
+†	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÃâ…ùÿÿÿÿ8‰Âğ¯ù1HĞÒRMINORZ
+CODE_SMELL
+	java:S116"^Rename this field "sub_divisionAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¨!8Õ˜ÉŒø1HÑÒRMINORZ
+CODE_SMELL
+€	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥´ß*8‰Âğ¯ù1HÒÒRMINORZ
+CODE_SMELL
+Œ	java:S116"YRename this field "sub_divisionId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹“åò8—ÚÉŒø1HÓÒRMINORZ
+CODE_SMELL
+“	java:S116"[Rename this field "sub_divisionName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²˜šÎùÿÿÿÿ8··ÉŒø1HÔÒRMINORZ
+CODE_SMELL
+‰	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôšÚÿÿÿÿÿ8‰Âğ¯ù1HÕÒRMINORZ
+CODE_SMELL
+	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¥È·8‰Âğ¯ù1HÖÒRMINORZ
+CODE_SMELL
+†	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¤€çüÿÿÿÿ8‰Âğ¯ù1H×ÒRMINORZ
+CODE_SMELL

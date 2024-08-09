@@ -1,0 +1,18 @@
+
+^
+java:S1128"+Remove this unused import 'com.ProductDTO'.(âø¤ß8š³²Œã1Hî+RMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ÒýÖŸ8š³²Œã1Hë+RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(å«ˆ‚úÿÿÿÿ8«·Œã1Hù+RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ªÀÈ½ÿÿÿÿÿ8«·Œã1Hú+RMAJORZ
+CODE_SMELL
+i
+java:S1128"6Remove this unused import 'org.hibernate.Transaction'.(ìÌè³8«·Œã1Hû+RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ªãƒøÿÿÿÿHÛ+RMINORZ
+CODE_SMELL
+c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8š³²Œã1Hì+RMINORZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+
+’	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ßìÿÿÿÿÿ8«ëòû1HˆîRMINORZ
+CODE_SMELL
+‰	java:S116"QRename this field "Mobile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬şúáùÿÿÿÿ8«ëòû1H‰îRMINORZ
+CODE_SMELL
+	java:S116"URename this field "NetBanking" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( İÍ–ûÿÿÿÿ8«ëòû1HŠîRMINORZ
+CODE_SMELL
+ˆ
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ì‘È8«ëòû1H‹îRMINORZ
+CODE_SMELL

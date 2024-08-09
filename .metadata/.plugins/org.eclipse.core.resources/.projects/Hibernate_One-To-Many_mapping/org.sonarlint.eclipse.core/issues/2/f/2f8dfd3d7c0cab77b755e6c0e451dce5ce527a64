@@ -1,0 +1,16 @@
+
+_
+java:S1128"+Remove this unused import 'om_Delete.Book'.(›Ö –8âŠê1H‘ RMINORZ
+CODE_SMELL
+o	java:S125'"<This block of commented-out lines of code should be removed.(Õæú„8€óü‰ê1H“ RMAJORZ
+CODE_SMELL
+a
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8âŠê1H¨ RMINORZ
+CODE_SMELL
+^
+java:S1128"+Remove this unused import 'om_Delete.Page'.(ß Ì8âŠê1Hª RMINORZ
+CODE_SMELL
+†	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ…õçH¬ RMINORZ
+CODE_SMELL
+h	java:S125H"<This block of commented-out lines of code should be removed.(³ÂòÕH­ RMAJORZ
+CODE_SMELL

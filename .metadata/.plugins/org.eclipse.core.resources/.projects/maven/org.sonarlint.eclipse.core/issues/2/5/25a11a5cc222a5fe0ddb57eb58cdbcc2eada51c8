@@ -1,0 +1,25 @@
+
+`
+java:S1481‰"+Remove this unused "Indore" local variable.(‚àáÓ8³ôØàş1HçRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÖØ^HéRMINORZ
+CODE_SMELL
+Š
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 229 to the 15 allowed.(Çµí‘8”»œàş1HêRCRITICALZ
+CODE_SMELL
+…	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚àáÓ8³ôØàş1H¤RMINORZ
+CODE_SMELL
+h
+java:S1874";Remove this use of "buildSessionFactory"; it is deprecated.(¼™¡åH¥RMINORZ
+CODE_SMELL
+q
+java:S1874"?Remove this use of "AnnotationConfiguration"; it is deprecated.(ÅñØÀşÿÿÿÿH¦RMINORZ
+CODE_SMELL
+_
+java:S14815"+Remove this unused "Bhopal" local variable.(ó×™ø8óí¿Óı1H§RMINORZ
+CODE_SMELL
+q
+java:S1874"?Remove this use of "AnnotationConfiguration"; it is deprecated.(ÅñØÀşÿÿÿÿH©RMINORZ
+CODE_SMELL
+„	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó×™ø8¯¼»Óı1HªRMINORZ
+CODE_SMELL

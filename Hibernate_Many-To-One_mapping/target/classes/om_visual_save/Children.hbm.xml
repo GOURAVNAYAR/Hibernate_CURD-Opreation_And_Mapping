@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+	<class name="om_visual_save.Children" table="Children_205">
+		<id name="childrenId" column="children_Id">
+		</id>
+		<property name="childrenName" column="children_Name" />
+		<property name="childrenAge" column="children_Age" />
+		<many-to-one name="parentObjects" column="Ydummy"
+			class="om_visual_save.Mother" cascade="all" />
+	</class>
+</hibernate-mapping>
